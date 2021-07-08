@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/responsive-flexbox-3column-preview-cards-YT4-8ruAi)
+- Live Site URL: [Github Pages](https://curricle.github.io/3-Column-Cards/)
 
 ## My process
 
